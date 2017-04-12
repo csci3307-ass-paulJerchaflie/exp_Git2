@@ -1,2 +1,2 @@
 # exp2_Git
-Practice using Git in class
+Practice using Git in class.
